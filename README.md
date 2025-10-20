@@ -1,4 +1,9 @@
 # EX-16-LEFT-SHIFT-OPERATION
+
+## NAME: DEEPAK.V
+
+## REGISTER NO: 25017595
+
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
 
